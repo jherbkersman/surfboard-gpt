@@ -31,13 +31,6 @@ X-STUMP
 
 A shorter squattier verison of the X-Series. w/ lower entry rocker a fuller nose and wide point a hair foward. deep single concve nose to flat tail. creating a very fast and skatey small wave board. Order 4-6" shorter than normal shortboard and 3/4 to an inch wider.
 
-Length,Width,Thickness,Volume In Liters
-5’4,19,2.2,23.5
-5’6,19.13,2.23,24.7
-5’8,19.25,2.25,25.9
-5’9,19.38,2.3,27
-5’10,19.5,2.35,28.2
-6’0,20,2.5,31.6
 
 
 ARROW HEAD
@@ -54,13 +47,6 @@ The Answer model is our longest standing shortboard design proven over the years
 
 Ride 1-2″ shorter + 1/4″ wider + 1/16″ thinner than standard shortboard
 
-Length,Width,Thickness,Volume In Liters
-5’9,18.25,2.06,22.8
-5’11,18.5,2.2,24.8
-6’1,18.75,2.3,26.9
-6’2,19,2.45,29.3
-6’4,19.5,2.55,33
-6’6,19.75,2.65,36.2
 
 
 
@@ -73,13 +59,6 @@ We’ve added a touch of hidden foam for extra paddle power and just a FUN all a
 
 Ride 4-6″ shorter + 7/8″ – 1 & 1/8 wider than standard shortboard
 
-Length,Width,Thickness,Volume In Liters
-5’4,19.15,2.22,24.8
-5’6,19.4,2.25,26.3
-5’8,19.65,2.3,28
-5’10,19.85,2.38,30.1
-6’0,20,2.5,32.7
-6’2,20.38,2.6,35.4
 
 
 
@@ -90,13 +69,6 @@ we are VERY excited about this board! If you liked the PL2 for average waves… 
 
 Ride 3-6″ shorter + ¾” – 1½” Wider
 
-Length,Width,Thickness,Volume In Liters
-5’4″,19,2.15,24.3
-5’6″,19.25,2.2,26.1
-5’7″,19.38,2.22,27
-5’8,19.5,2.25,27.9
-5’10,19.75,2.27,29.5
-6’0,20,2.3,31.4
 
 
 
@@ -107,13 +79,6 @@ This particular model features a very "80’s" outline mixed with the foil and r
 
 Ride 4-6″ shorter + 7/8″ wider than standard shortboard
 
-Length,Width,Thickness,Volume In Liters
-5’4,18.75,2.1,23.5
-5’6,19,2.13,24.9
-5’8,19.25,2.18,26.5
-5’10,19.5,2.25,28.4
-5’11,19.75,2.35,30.4
-6’0,20,2.45,32.4
 
 
 
@@ -122,17 +87,6 @@ Classic ’Twinfin’ fish
 
 Classic “Twin” w/ a slightly pulled in tail + a dash of extra belly rocker to be ridden more critical than your standard older keel fin fishes.
 
-Length,Width,Thickness,Volume In Liters
-5’4,20.75,2.28,30.4
-5’5,20.8,2.29,30.75
-5’6,20.85,2.3,31.1
-5’7,20.9,2.31,31.45
-5’8,21,2.32,31.8
-5’9,21,2.33,32.15
-5’10,21.13,2.34,32.5
-5’11,21.25,2.35,32.8
-6,0,21.38,2.36,33.2
-6’1,21.5,2.37,33.55
 
 
 
@@ -141,17 +95,6 @@ CAMS PRO-MODEL
 
 The biggest adjustment for this design in 2015 has been a slightly lower nose rocker w/ more curve and concaves in the fin area for more radical surfing. Its a blend between the rockers of the HungryMan an template of the Mr.Clean. CamRichards has been ripping harder this year than ever, and his feedback has honestly never been so positive… we fine tune the designs over and over, and very pleased w/ this years result… Order yours HydroflexEpoxy vacuum bagged on a regular poly blank the liveliness truly is incredible! Feel the difference!
 
-Length,Width,Thickness,Volume In Liters
-5’6,18.13,2.1,22.1
-5’7,18.25,2.13,23
-5’8 A,18.37,2.16,23.9
-5’8 B,18.45,2.2,24.4
-5’9,18.55,2.27,25.8
-5’10 A,18.55,2.3,26.9
-5’10 B,18.75,2.32,26.9
-5’11,18.9,2.35,27.8
-6’0,19,2.35,28.4
-6’1,19.38,2.4,30.2
 
 
 
@@ -162,14 +105,6 @@ Features the lowest nose entry offered, which allows the board to paddle and acc
 
 Ride 1″ smaller than your regular shortboard
 
-Length,Width,Thickness,Volume In Liters
-5’7,18.18,2.1,22.1L
-5’8,18.25,2.13,22.8L
-5’9,18.38,2.15,23.5L
-5’11,18.65,2.25,25.9L
-6’0,18.75,2.3,27.0L
-6’1,19,2.38,28.7L
-6’2,19.25,2.45,30.4L
 
 
 
@@ -180,19 +115,6 @@ This is still our best selling design!!! A guaranteed safe an fun board for ever
 
 Ride 3-5″ shorter + 3/4″- 1″ Wider
 
-Length,Width,Thickness,Volume In Liters
-5’4,19.5,2.18,24.1
-5’5,19.65,2.2,25.1
-5’6,19.75,2.25,25.8
-5’7,19.85,2.23,26.5
-5’8,20,2.3,27.7
-5’9,20.13,2.3,28.9
-5’10,20.25,2.38,29.9
-5’11,20.35,2.4,30.7
-6,0,20.5,2.5,32.7
-6’1,20.75,2.6,34.9
-6,2,21,2.63,38.1
-6’4,21.5,2.75,42
 
 
 
@@ -201,18 +123,6 @@ ALLIGATOR ARMS
 
 Feel like you have Alligator Arms and you cant dig deep enough??? this little badboy will give u the little extra glide and speed that you need… This goes along w/our 1board quiver concept; a very low all around rocker w/ extra foam in the chest for paddling. Still maneuverable and forgiving just a great all arounder that we’ve made for a few of the custom guys and feedback has been overwhelmingly fantastic! Fast and easy to control ride as a quad or thruster sorta a shortboard version of the PL2.0
 
-Length,Width,Thickness,Volume In Liters
-5’4,17.5,2.1,20
-5’6,18,2.13,21.9
-5’7,18.25,2.15,22.8
-5’8,18.5,2.18,24
-5’9,18.75,2.25,25.2
-5’10,19,2.35,27.1
-5’11,19.25,2.38,28.2
-6’0,19.5,2.4,29.2
-6’1,19.75,2.5,31.2
-6’2,20,2.65,33.9
-6’4,20.5,2.75,37.1
 
 
 
@@ -223,12 +133,6 @@ Hungry Man has been so popular w/ every team guy we’ve done… We wanted to ma
 
 Ride 2″ shorter + 1/4″ wider than HungryMan or standard shortboard
 
-Length,Width,Thickness,Volume In Liters
-5’7,18.25,2.06,22
-5’9,18.5,2.15,24.3
-5’11,18.75,2.25,25.7
-6’0,18.85,2.3,27.1
-6’2,19.15,2.38,28.5
 
 
 
@@ -239,12 +143,6 @@ U ever eat those HungryMan microwave dinners for 5.99…? Ur disappointed with u
 
 Ride same to 1″ shoter + 1/8 wider + 1/8 thicker than normal shortboard
 
-Length,Width,Thickness,Volume In Liters
-5’9,18,2.1,22.3
-5’11,18.25,2.2,24.1
-6’0,18.25,2.25,25
-6’1,18.5,2.3,26.1
-6’2,18.65,2.4,27.7
 
 
 
@@ -255,23 +153,6 @@ Description
 
 -High Performance all arounder…. Features a slightly flatter tail rocker than some of our other performance boards which gives it immediate Speed/ Drive on the take off which out have to generate down the line speed… Do the flatter tail curve, we moved the widepoint back+ tucked the rail slightly farther back onto the rail which gives a very forgiving rail transition… Easy to manuever and switch rail to rail quite smoothly… Overall feedback is Fast and easy to carve crisp fast turns maintaining speed thru the whole wave. A great 4ft- 6ft beachbreak board top to bottom style surfing. Surf Fast on the SPEEDY model!
 
-Length,Width,Thickness,Volume In Liters
-5’6,18,2.13,22.8
-5’7,18.25,2.18,24
-5’8,18.5,2.2,24.5
-5’9,18.55,2.25,25.8
-5’10,18.7,2.3,26.6
-5’10,19.13,2.4,28.4
-5’11,19,2.375,27.8
-5’11,19.25,2.5,29.25
-6’0,19,2.375,28
-6’0,19.25,2.5,30
-6’1,19,2.375,29
-6’1,19.375,2.55,30.7
-6’2,19.5,2.63,33
-6’3,19.75,2.65,34
-6’4,20,2.68,35.5
-6’6,20.5,2.75,38.5
 
 
 
@@ -292,20 +173,6 @@ Not only is the board extremely forgiving for guys attempting crazy AIRs it is p
 
 “STAB magazine TOP5 boards for 2019 “
 
-Length,Width,Thickness,Volume In Liters
-5’4″,18.25,2.13,23
-5’5″a,18.38,2.15,23.7
-5’5″b,18.75,2.21,24.5
-5’6″a,18.65,2.2,25
-5’6″b,19,2.25,25.9
-5’7″,18.85,2.85,26.3
-5’8″a,19,2.32,27.4
-5’8″b,19.5,2.37,29.5
-5’9″,19.5,2.38,29.5
-5’10”,19.63,2.4,30.25
-6’0″,19.75,2.5,32.4
-6’2″,20.25,2.55,35
-6’4″,20.75,2.63,37.8
 
 
 
@@ -334,13 +201,6 @@ Update: This board has withstood the test of time… still my personal favorite 
 
 Ride 3-5″ shorter + 3/4″- 7/8″ wider than standard shortboard. Order a hair narrow and thicker for gunny feel. Order wider and thinner for waves under head high
 
-Length,Width,Thickness,Volume In Liters
-5’6,18.85,2.2,23.6
-5’8,19,2.25,25
-5’9,19.15,2.35,26.7
-5’11,19.38,2.38,27.5
-6’0,19.8,2.45,29.8
-6’2,20.15,2.5,31.9
 
 
 
@@ -351,13 +211,6 @@ The "Missing link" is the evil twin to the Potato Launcher… Even though we Lov
 
 Ride 1-2″ shorter + 1/4″- 1/2″ wider than standard shortboard
 
-Length,Width,Thickness,Volume In Liters
-5’9,18.55,2.2,23.9
-5’10,18.65,2.25,24.7
-5’11,18.85,2.3,25.6
-6’0,19,2.4,27.7
-6’2,19.5,2.5,31.3
-6’4,19.75,2.6,33
 
 
 
@@ -368,11 +221,6 @@ Your bones getting older, had a few extra beers, your hair getting thinner but y
 
 Designed to be a friendly paddler, rember it has plenty of hidden meet
 
-Length,Width,Thickness,Volume In Liters
-6’2,19.75,2.5,32
-6’4,20,2.6,34.6
-6’6,20.38,2.65,35.6
-6’8,20.75,2.75,39.9
 
 
 
@@ -381,11 +229,6 @@ STEP UP
 
 Designed for extra bite and drive when it counts. Ideal for glassy and hollow conditions. These are specialized for specialized waves. its important to have the right board for when the surf is FINALLY pumping. This will get the job done!
 
-Length,Width,Thickness,Volume In Liters
-6’3,18.25,2.2,25.7
-6’4,18.35,2.25,26
-6’5,18.4,2.3,27.8
-6’6,18.5,2.35,29
 
 
 
@@ -410,8 +253,6 @@ CAMS MAGIC PIPE board was 6’5 18.4 2.45 29.8L
 
 He is 5ft9 145lbs
 
-Length,Width,Thickness,Volume In Liters
-6’5,18.4,2.45,29.8
 
 
 
